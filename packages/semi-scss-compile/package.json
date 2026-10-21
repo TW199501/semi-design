@@ -23,7 +23,7 @@
     },
     "dependencies": {
         "arg": "^5.0.1",
-        "fast-copy": "^3.0.1 ",
+        "fast-copy": "^2.2.0 ",
         "fs-extra": "^8.1.0",
         "lodash": "^4.17.21",
         "sass": "^1.54.9"
